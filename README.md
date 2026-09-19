@@ -1,4 +1,4 @@
-# 💊 Pharmacy Management System
+# 💊 Pharmacy Management System (Group Project)
 
 A desktop application built with C# Windows Forms (.NET) and SQL Server, for managing day-to-day pharmacy operations — medicine inventory, suppliers, customers, billing, stock tracking, and sales reporting.
 
